@@ -5,5 +5,5 @@ USAGE
 - click on "index.html"
 ----
 CONTEXT
-- This website is just a showcase of what I can make.
+- This website is just a showcase.
 - It is a responsive website from html css & boostrap done on my own from my house. 
